@@ -2,7 +2,7 @@ import React from "react";
 
 import useStyles from "./styles";
 export const Post = () => {
-  const classes = useStyles();
+  // const classes = useStyles();
   return <h1>post</h1>;
 };
 
